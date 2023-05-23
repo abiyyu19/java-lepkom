@@ -8,7 +8,7 @@ public class koneksi {
     private Statement data = null;
     private Connection koneksi = null;
     
-    private String Url = "jdbc:mysql://localhost/mahasiswa";
+    private String Url = "jdbc:mysql://localhost/gudang";
     private String DBUser = "root";
     private String DBPassword = "";
     
